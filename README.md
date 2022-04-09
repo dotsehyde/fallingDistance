@@ -6,7 +6,7 @@
 
 When an object is falling because of gravity, the following formula can be used to determine the distance the object falls in a specific time period:
 
-`d = 1⁄2 gt2`
+`d = 1⁄2 g(t*t)`
 
 The variables in the formula are as follows: d is the distance in meters, `g is 9.8`, and t is the
 amount of time, in seconds, that the object has been falling.
